@@ -1,0 +1,14 @@
+.idea/*
+.DS_Store
+*.pyc
+*.log
+*.vagrant
+*.retry
+
+db.sqlite3
+db.sqlite3.*
+
+static/*
+media/*
+.venv/*
+virtual-env/*
